@@ -45,7 +45,7 @@ Before you do that, deregiter current Applications servers from ELB.
 12. Click **Next**.
 13. For **Load balancing** choose **Attach to an existing load balancer**.
 14. For **Existing load balancer target groups** select your target group.
-15. For **Health check type** select **EC2**.
+15. For **Health check type** select **ELB**.
 16. Click **Next**.
 17. For **Group size**:
     * **Desired capacity**: 2
