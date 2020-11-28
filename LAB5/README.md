@@ -23,6 +23,7 @@ This time we will use Cloudformation to build a network topology.
 2. In the AWS Management Console, on the Services menu, click **Cloudformation**.
 3. Click **Create Stack**.
 4. For **Amazon S3 URL** paste this: https://awsninjafrtemplate.s3.eu-central-1.amazonaws.com/vpc_pub_priv_2az.yaml
+   <br> (copy of this file in the same directory as this README.md)
 5. Click **Next**.
 6. For **Stack name** set **awsninjaX-VPC**.
 7. For **CidrOctect2** paste your **X** value.
